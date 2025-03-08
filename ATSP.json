@@ -1,0 +1,17 @@
+{
+	],
+	"ClubData": [
+		{
+			"ID": 1,
+			"Name": "Bursaspor",
+			"ShortName": "BRS",
+			"ImageURL": "<Bursaspor.png>"
+		}
+              ]
+	"StadiumData": [
+		{
+			"ID": 1,
+			"Name": "Timsah Stadyum"
+		}
+	]
+}
